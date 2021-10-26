@@ -1,0 +1,21 @@
+body{
+position: relative;
+left: 450px ;
+}
+ul.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.menu li {
+    display: inline;
+}
+
+ul.menu li a {
+    text-decoration: none;
+    padding: .2em 1em;
+    color: #212121;
+}
+h1,h2{
+    color:#6D9886;}
